@@ -1,6 +1,6 @@
 # Responsive Landing Page – Online Store
 
-This is a responsive landing page created as part of an internship task. It is built using only **HTML** and **CSS**, without any JavaScript frameworks or external libraries.
+This is a responsive landing page created as part of an internship task. It is built using only **HTML**,**CSS**, and **JavaScript**.
 
 ## Features
 
