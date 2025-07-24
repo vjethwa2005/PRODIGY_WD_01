@@ -5,7 +5,7 @@ This is a responsive landing page created as part of an internship task. It is b
 ## Features
 
 - ✅ Responsive layout for desktop and mobile screens
-- ✅ Fixed navigation bar with at least four sections: Home, About, Products, Contact
+- ✅ Fixed navigation bar
 - ✅ Sidebar for product categories
 - ✅ Main section displaying products in a grid layout
 - ✅ Hover effects on product cards
