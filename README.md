@@ -1,4 +1,4 @@
-<img width="430" height="814" alt="image" src="https://github.com/user-attachments/assets/53604ea3-8811-4f9e-a47d-a25a550162c2" /># Responsive Landing Page – Online Store
+# Responsive Landing Page – Online Store
 
 This is a responsive landing page created as part of an internship task. It is built using only **HTML**, **CSS**, and **JavaScript**.
 
