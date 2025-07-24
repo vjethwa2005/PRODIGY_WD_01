@@ -11,3 +11,4 @@ This is a responsive landing page created as part of an internship task. It is b
 - ✅ Hover effects on product cards
 - ✅ Clean and modern design using CSS Flexbox and Grid
 
+[Click to watch the demo video](https://drive.google.com/file/d/1e8gHE9NIp2_9EJTnCMxgIxRQ-f6TbfQ_/view?usp=sharing)
